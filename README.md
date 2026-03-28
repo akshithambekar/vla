@@ -2,7 +2,7 @@
 
 Main code repo for building our VLA system.
 
-[simplevla.com](https://simplevla.com/) is the blog/process repo where we document decisions and progress.
+[simplevla.com](https://simplevla.com/) is the blog repo where we document our learning journey.
 
 This repo is where we actually build, test, and iterate.
 
