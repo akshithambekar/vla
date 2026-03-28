@@ -14,4 +14,4 @@ This repo is where we actually build, test, and iterate.
 
 ## Current Focus
 
-We are currently building a neural network from scratch - 2/28/26 - Yahya Masri
+We are currently building a neural network from scratch - 3/28/26 - Yahya Masri
