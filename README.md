@@ -6,6 +6,12 @@ Main code repo for building our VLA system.
 
 This repo is where we actually build, test, and iterate.
 
+## Important Resources
+
+- [LeRobot](https://github.com/huggingface/lerobot)
+- [SO-ARM100](https://github.com/TheRobotStudio/SO-ARM100)
+- [LeKiwi](https://github.com/SIGRobotics-UIUC/LeKiwi)
+
 ## What Goes Here
 
 - Model code
